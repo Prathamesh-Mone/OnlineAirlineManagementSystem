@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Add Record Form</title>
+</head>
+<body>
+<form action="passenger3.php" method="post">
+    <p>
+        <label for="P_ID">ID generated in registration step:</label>
+        <input type="text" name="P_ID" id="P_ID">
+    </p>
+    <p>
+        <label for="methodno">Methodno:1.Credit card 2.Debit card 3.Internet-banking 4.Payment by (G-pay,BHIM,PhonePay)(Only below 25,000*)</label>
+        <input type="text" name="methodno" id="methodno">
+    <p>
+        <label for="billingaddr">Billing-address:</label>
+        <input type="text" name="billingaddr" id="billingaddr">
+    </p>
+    <p>
+        <label for="cardno">Cardno(if payment by Credit/Debit cards):</label>
+        <input type="text" name="cardno" id="cardno">
+    </p>
+    <p>
+        <label for="code">Code(CVV):</label>
+        <input type="text" name="code" id="code">
+    </p>
+    </p>	
+    <input type="submit" value="Pay">
+</form>
+</body>
+</html>
