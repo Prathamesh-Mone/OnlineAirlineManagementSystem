@@ -59,10 +59,10 @@ For installing phpmyadmin, follow the steps as it is on the link given below.<br
 
 ## Installing __xampp__ on Linux
 Download the executable for xampp from here.<br>
-[Download xampp](https://www.apachefriends.org/index.html, "https://www.apachefriends.org/index.html")
+[Download xampp](https://www.apachefriends.org/index.html)
 
 For installing xampp follow the steps given on this link. <br>
-[Install xampp](https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu,"https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu")
+[Install xampp](https://phoenixnap.com/kb/how-to-install-xampp-on-ubuntu)
 
 Once all the above installations are complete in same order we are ready to do the setup.
 
@@ -85,4 +85,4 @@ sudo service /opt/lampp/lampp start
 Now go to your browser and access localhost/phpmyadmin. There in databases, import the sql file from the cloned priject named __"database1.sql"__.
 Once this file is imported without any errors, your system is ready to go!
 Access this link from your browser to view the index page of Online Airline Management System.<br>
-[Online Airline Management System](http://localhost/OnlineAirlineManagementSystem/, "http://localhost/OnlineAirlineManagementSystem/")
+[Online Airline Management System](http://localhost/OnlineAirlineManagementSystem/)
