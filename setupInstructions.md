@@ -55,7 +55,7 @@ sudo service apache2 restart
 
 ## Installing __phpmyadmin__
 For installing phpmyadmin, follow the steps as it is on the link given below.<br>
-[Install phpmyadmin](https://magefan.com/blog/how-to-install-phpmyadmin,"https://magefan.com/blog/how-to-install-phpmyadmin")
+[Install phpmyadmin](https://magefan.com/blog/how-to-install-phpmyadmin)
 
 ## Installing __xampp__ on Linux
 Download the executable for xampp from here.<br>
